@@ -1,0 +1,13 @@
+.houses-list {
+  margin-top: 20vh;
+  padding: 0;
+}
+
+.house-row {
+  list-style: none;
+  margin-bottom: 5vh;
+}
+
+.house-pic {
+  max-width: 100%;
+}
